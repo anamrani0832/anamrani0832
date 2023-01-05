@@ -13,5 +13,6 @@ I'm graduated in computer science who is passionate about making contributing to
 - 📫 How to reach me **anamrani17arid529@gmail.com**
 
 ## Find me around the web 🌎: <a href="https://github.com/anamrani0832"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://github.com/anamrani0832">Twitch</a> 📹 ✍🏾
+- Learning in public on <a href="https://github.com/anamrani0832">Github</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/anam-rani-60a007236">LinkedIn</a> 💼
+- Sharing updates on <a href="https://twitter.com/AnumRani17">Twitter</a>
